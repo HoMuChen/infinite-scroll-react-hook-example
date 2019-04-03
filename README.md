@@ -6,3 +6,5 @@ A Example Implementing infinite-scroll fetching data behavior logic by using Rea
 $ npm i
 $ npm start
 ```
+
+![image](/pic.gif)
